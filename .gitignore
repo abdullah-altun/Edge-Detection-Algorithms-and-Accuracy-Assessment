@@ -9,6 +9,8 @@ __pycache__/
 /zip/
 /DexiNed/
 /checkpoints/
+/MergeSonuc/
+/subpixelEedges/
 # Distribution / packaging
 .Python
 build/
